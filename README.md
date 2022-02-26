@@ -1,7 +1,7 @@
 
 <h3 title="hehehe"> Hey there 👋, I'm Nipun Liyanage aka BandiX</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <div>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nipun-nadeeshana)
