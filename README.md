@@ -1,8 +1,8 @@
 
-<h3 title="hehehe" align = "center"> Hey there 👋, I'm Nipun Liyanage aka BandiX</h3>
+<h3 title="hehehe"> Hey there 👋, I'm Nipun Liyanage aka BandiX</h3>
 
 <h3 align="center">Connect with me:</h3>
-<div align="center">
+<div>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nipun-nadeeshana)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bandi.x_/?hl=en)
@@ -12,21 +12,25 @@
 </div>
 
 
-<div align = "center">
+<div>
 <br />
 <br />
 
 A **Final Year Computer Science Undergraduate** 
 
 
+
+
 **About Myself**
 
--I’m currently seeking for internship opportunities in software engineering or project management.
--I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
--Ask me about anything, I love to answer!
--Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
--See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
+-  I’m currently seeking for internship opportunities in software engineering or project management.
+-  I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
+-  Ask me about anything, I love to answer!
+-  Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
+-  See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
 
 </div>
+
+
 
 
