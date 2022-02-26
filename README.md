@@ -1,5 +1,5 @@
 
-<h1> Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Nipun Nadeeshana Liyanage aka BandiX!</h1>
+<h1> Hey, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Nipun Nadeeshana Liyanage aka BandiX!</h1>
 
 <h2>Connect with me:</h2>
 <div>
