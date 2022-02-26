@@ -1,7 +1,7 @@
 
 <h3 title="hehehe"> Hey there 👋, I'm Nipun Liyanage aka BandiX</h3>
 
-<h3>Connect with me:</h3>
+<h2>Connect with me:</h2>
 <div>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nipun-nadeeshana)
@@ -31,10 +31,10 @@ and strive to achieve organizational goals.**
 
 **About Myself**
 
--  I’m currently seeking for internship opportunities in software engineering or project management.
--  I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
--  Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
--  See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
+- 👨🏽‍💻 I’m currently seeking for internship opportunities in software engineering or project management.
+- 💼 I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
+- 📫 Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
+- 📝 See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
 
 </div>
 
