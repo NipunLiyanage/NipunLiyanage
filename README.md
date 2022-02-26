@@ -1,5 +1,5 @@
 
-<h1 title="hehehe"> Hey there 👋, I'm Nipun Liyanage aka BandiX!</h1>
+<h1 title="hehehe"> Hey there 👋, I'm Nipun Nadeeshana Liyanage aka BandiX!</h1>
 
 <h2>Connect with me:</h2>
 <div>
