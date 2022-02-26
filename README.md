@@ -18,6 +18,8 @@
 
   <h2>Final Year undergraduate in Computer Science</h2>
   
+  **About Myself**
+  
 **I am a self motivated, hardworking individual who is
 ready to take on new challenges. I am keen on gaining
 experience and practical knowledge in the fields of
@@ -41,7 +43,7 @@ and strive to achieve organizational goals.**
 <br>
 <br>
 <div>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NipunLiyanage&show_icons=true&locale=en" alt="nipun-liyanage" width="410" /></p
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NipunLiyanage&show_icons=true&locale=en&theme=tokyonight" alt="nipun-liyanage" width="410" /></p
 </div>
 
 
