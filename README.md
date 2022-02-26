@@ -16,7 +16,7 @@
 <br />
 <br />
 
-**Final Year undergraduate in Computer Science** 
+  <h2>Final Year undergraduate in Computer Science</h2>
   
 **I am a self motivated, hardworking individual who is
 ready to take on new challenges. I am keen on gaining
