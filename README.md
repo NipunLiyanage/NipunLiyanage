@@ -16,7 +16,15 @@
 <br />
 <br />
 
-A **Final Year Computer Science Undergraduate** 
+**Final Year undergraduate in Computer Science** 
+  
+**I am a self motivated, hardworking individual who is
+ready to take on new challenges. I am keen on gaining
+experience and practical knowledge in the fields of
+Software Engineering and Project Management. I
+constantly aim to bring my A-game to the work I do
+and strive to achieve organizational goals.**
+
 
 
 
@@ -25,7 +33,6 @@ A **Final Year Computer Science Undergraduate**
 
 -  I’m currently seeking for internship opportunities in software engineering or project management.
 -  I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
--  Ask me about anything, I love to answer!
 -  Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
 -  See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
 
