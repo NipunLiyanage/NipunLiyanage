@@ -38,6 +38,9 @@ and strive to achieve organizational goals.**
 
 </div>
 
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NipunLiyanage&show_icons=true&locale=en&layout=compact" alt="Nipun-Liyanage" /></p>
+
 
 
 
