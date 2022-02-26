@@ -21,11 +21,11 @@ A **Final Year Computer Science Undergraduate**
 
 **About Myself**
 
-- 👨🏽‍💻 I’m currently seeking for internship opportunities in software engineering or project management.
-- 💼 I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
-- 📝 See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
+-I’m currently seeking for internship opportunities in software engineering or project management.
+-I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
+-Ask me about anything, I love to answer!
+-Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
+-See my [CV] at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
 
 </div>
 
