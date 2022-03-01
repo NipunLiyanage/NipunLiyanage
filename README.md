@@ -38,8 +38,11 @@ and strive to achieve organizational goals.**
 
 - 👨🏽‍💻 I’m currently seeking for internship opportunities in software engineering or project management.
 - 💼 I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
+- 🎹 Play Piano and Sing as a hobby
+- 🎮 Valo player 
 - 📫 Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
-- 📝 See my complete CV at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing) 
+- 📝 See my complete CV at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing)
+
 
 </div>
 
