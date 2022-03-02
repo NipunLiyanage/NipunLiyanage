@@ -36,7 +36,7 @@ and strive to achieve organizational goals.**
 
 **About Myself**
 
-- 👨🏽‍💻 I’m currently seeking for internship opportunities in software engineering or project management.
+- 👨🏽‍💻 I’m currently seeking for internship opportunities in the fields of software engineering or project management.
 - 💼 I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
 - 🎹 Play Piano and Sing as a hobby
 - 🎮 Valo player 
