@@ -19,7 +19,7 @@
 
 
 
-  <h2>Final Year undergraduate in Computer Science</h2>
+  <h2>Graduate Enginenr in BSc. (Hons) in Computer Science with 1+ years of industry experience.</h2>
   
   **About Myself**
   
@@ -36,8 +36,8 @@ and strive to achieve organizational goals.**
 
 **About Myself**
 
-- 👨🏽‍💻 I’m currently seeking for internship opportunities in the fields of software engineering or project management.
-- 💼 I’m pursuing a BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
+- 👨🏽‍💻 I’m currently seeking for job opportunities in the fields of software engineering.
+- 💼 I have graduated in BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
 - 🎹 Play Piano and Sing as a hobby
 - 🎮 Valo player 
 - 📫 Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
