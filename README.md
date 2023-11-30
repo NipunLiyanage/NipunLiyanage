@@ -25,8 +25,8 @@
   
 **I am a self motivated, hardworking individual who is
 ready to take on new challenges. I am keen on gaining
-experience and practical knowledge in the fields of
-Software Engineering and Project Management. I
+experience and practical knowledge in the field of
+Software Engineering. I
 constantly aim to bring my A-game to the work I do
 and strive to achieve organizational goals.**
 
