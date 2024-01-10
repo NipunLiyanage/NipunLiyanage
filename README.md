@@ -37,9 +37,8 @@ and strive to achieve organizational goals.**
 **About Myself**
 
 - 👨🏽‍💻 I’m currently seeking for job opportunities in the fields of software engineering.
-- 💼 I have graduated in BSc. (Hons) Computer Science degree at General Sir John Kotelawela Defence University.
+- 💼 Graduated with a BSc. (Hons) in Computer Science from General Sir John Kotelawela Defence University.
 - 🎹 Play Piano and Sing as a hobby
-- 🎮 Valo player 
 - 📫 Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
 - 📝 See my complete CV at (https://drive.google.com/file/d/1HT4QKzGQwaqN0ewQcyGo06JIeSRXqkbr/view?usp=drive_link)
 
