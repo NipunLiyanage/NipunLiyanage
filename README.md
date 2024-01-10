@@ -41,7 +41,7 @@ and strive to achieve organizational goals.**
 - 🎹 Play Piano and Sing as a hobby
 - 🎮 Valo player 
 - 📫 Email me at [nipunnadeeshana1999@gmail.com](mailto:nipunnadeeshana1999@gmail.com).
-- 📝 See my complete CV at (https://drive.google.com/file/d/1D2U2V7OhT33SBxqYBEhgqvxIgEwkS0zA/view?usp=sharing)
+- 📝 See my complete CV at (https://drive.google.com/file/d/1HT4QKzGQwaqN0ewQcyGo06JIeSRXqkbr/view?usp=drive_link)
 
 
 </div>
