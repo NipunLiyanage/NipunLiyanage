@@ -19,7 +19,7 @@
 
 
 
-  <h2>Graduate Enginenr in BSc. (Hons) in Computer Science with 1+ years of industry experience.</h2>
+  <h2>Graduate Engineer in BSc. (Hons) in Computer Science with 1+ years of industry experience.</h2>
   
   **About Myself**
   
