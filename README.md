@@ -53,9 +53,7 @@ and strive to achieve organizational goals.**
 
   
 <br>
-<div>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NipunLiyanage&show_icons=true&locale=en&theme=tokyonight" alt="nipun-liyanage" width="410" /></p
-</div>
+
 
 
 
